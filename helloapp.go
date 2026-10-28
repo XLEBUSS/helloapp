@@ -4,6 +4,8 @@ import "fmt"
 
 func main(){
 	Hello()
+	greetBlack()
+	greetWhite()
 }
 
 func Hello(){
@@ -12,4 +14,8 @@ func Hello(){
 
 func greetWhite(){
 	fmt.Println("hello white")
+}
+
+func greetBlack(){
+	fmt.Println("hello black")
 }
