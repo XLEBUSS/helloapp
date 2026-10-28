@@ -9,3 +9,7 @@ func main(){
 func Hello(){
 	fmt.Println("hello")
 }
+
+func greetWhite(){
+	fmt.Println("hello white")
+}
