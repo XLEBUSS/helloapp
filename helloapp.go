@@ -13,3 +13,7 @@ func Hello(){
 func greetWhite(){
 	fmt.Println("hello white")
 }
+
+func greetBlack(){
+	fmt.Println("hello black")
+}
