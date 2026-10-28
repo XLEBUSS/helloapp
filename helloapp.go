@@ -7,7 +7,7 @@ func main(){
 }
 
 func Hello(){
-	fmt.Println("hello")
+	fmt.Println("hello everyone")
 }
 
 func greetWhite(){
