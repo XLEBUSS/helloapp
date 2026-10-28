@@ -4,6 +4,8 @@ import "fmt"
 
 func main(){
 	Hello()
+	greetBlack()
+	greetWhite()
 }
 
 func Hello(){
